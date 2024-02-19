@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeyVisbeen
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Unity, AWS serverless + CDK, and java - Springboot
+- 🌱 I’m always exploring new things
 - 📫 How to reach me, my email is joeykees@gmail.com.
 
 <!---
