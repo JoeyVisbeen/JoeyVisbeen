@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeyVisbeen
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, cloud development and data science
 - 🌱 I’m always exploring new things
 - 📫 How to reach me, my email is joeykees@gmail.com.
 
